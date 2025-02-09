@@ -1,0 +1,77 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "E:/DATA&AI/Tic-Tac-Teo-X-O-Game/tic_tac_teo_X_O_game.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": false
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "E:/DATA&AI/Tic-Tac-Teo-X-O-Game/Images/tic-tac-toe2.ico"
+  },
+  {
+   "optionDest": "name",
+   "value": "Tic-Tac-Teo-X-O-Game"
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "E:/DATA&AI/Tic-Tac-Teo-X-O-Game/Images;Images/"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "tkinter"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "random"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
